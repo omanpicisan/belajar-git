@@ -4,3 +4,4 @@ Dosen PETIK
 3.isan
 4.japar slebew
 5.patur
+6.izan
